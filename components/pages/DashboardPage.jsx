@@ -44,6 +44,17 @@ const Dashboard = () => {
                         <button className="export-excel-button">Xuất Excel</button>
                     </form>
                 </div>
+                <div className="info-board">
+                    <p>STT</p>
+                    <p>Ngày thu thập</p>
+                    <p>Chủ đề</p>
+                    <p>Người tạo</p>
+                    <p>Số tin đã duyệt	Số tin chưa duyệt</p>
+                    <p>Không phát hiện vi phạm</p>
+                    <p>Có dấu hiệu vi phạm</p>
+                    <p>Không tìm được thông tin</p>
+                    <p>Không có dữ liệu</p>
+                </div>
             </div>
             <Footer />
         </div>

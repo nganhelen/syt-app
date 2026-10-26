@@ -97,6 +97,12 @@ form {
   height: 40px;
 }
 
+/* Info-board */
+.info-board p {
+  display: inline-block;
+  margin: 10px;
+}
+
 /* Footer */
 .footer {
   align-items: center;
